@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zadli.material3defaulttemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zadli.material3defaulttemplate.MyBundle
 
 class MyApplicationService {
 
